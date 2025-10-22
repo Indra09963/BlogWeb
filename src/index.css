@@ -1,0 +1,14 @@
+
+.login-page{
+    background-image: url('/BlogWeb/public/media/Signup.jpg');
+    width: 100%;
+    height: 100vh;
+}
+
+.title{
+    color: red;
+}
+
+.nav-item{
+    justify-content: space-between;
+}
